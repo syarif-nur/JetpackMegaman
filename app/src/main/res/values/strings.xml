@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JetpackMegaman</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_profile">Profile</string>
+    <string name="back">Back</string>
+    <string name="add_to_favorite">Tambah ke Favorite</string>
+    <string name="search_megaman">Search Megaman</string>
+    <string name="about_me">Syarif Nur</string>
+    <string name="email_me">syarif.nur92@gmail.com</string>
+</resources>
